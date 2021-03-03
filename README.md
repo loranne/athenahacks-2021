@@ -1,3 +1,8 @@
+# Details for AthenaHacks
+
+https://athenahacks-2021.devpost.com/
+Last year's projects: https://athenahacks2020.devpost.com/project-gallery/
+
 March 6-7
 
 # Project ideas for Athena Hacks 2021 hackathon
