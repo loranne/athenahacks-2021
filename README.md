@@ -2,10 +2,13 @@
 March 6-7
 
 - RSS reader
-- News feed
-- puzzle exchange
+- jigsaw puzzle exchange
+  - like paperbackswap but for jigsaw puzzles
 - pocket finder (Thanks, It Has Pockets)
-- Sample finder (personal care samples)
+  - clothing with pockets, user reviews
+- sample finder (personal care samples)
+  - find ones you'll use and get rid of the ones you won't
 - book club helper
-- should I call the vet
+  - users belong to book clubs and can share reading xp and ideas
+- should I call the vet?
   - pet health tracker
