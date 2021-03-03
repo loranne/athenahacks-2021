@@ -1,5 +1,8 @@
-# Project ideas for Athena Hacks 2021 hackathon
 March 6-7
+
+# Project ideas for Athena Hacks 2021 hackathon
+
+Items in bold text are my favorites.
 
 - RSS reader
 - **jigsaw puzzle exchange**
