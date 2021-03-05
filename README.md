@@ -8,13 +8,16 @@ Last year's projects: https://athenahacks2020.devpost.com/project-gallery/
 
 March 6-7
 
-# Project ideas for Athena Hacks 2021 hackathon
+# Project ideas for AthenaHacks 2021 hackathon
 
 Items in bold text are my favorites.
 
 - RSS reader
 - **jigsaw puzzle exchange**
   - like paperbackswap but for jigsaw puzzles
+  - hyper-local or mail-based?
+  - user story: I have a jigsaw puzzle that I'm done with and don't need anymore. Someone else has a jigsaw puzzle I want. We can swap puzzles.
+  - users can post pictures and puzzles, along with information like num pieces and materials, subject matter (animals, landscape, etc.)
 - pocket finder (Thanks, It Has Pockets)
   - clothing with pockets, user reviews
 - sample finder (personal care samples)
