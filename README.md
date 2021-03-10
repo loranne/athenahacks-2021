@@ -1,3 +1,9 @@
+# emoticontext - completed team project
+
+View Devpost entry for emoticontext: https://devpost.com/software/emoticontext
+
+emoticontext is a Chrome browser extension that uses Google Cloud's Sentiment Analysis API to alert the reader to whether a page contains positive (happy!), neutral, or negative (sad) content. 
+
 # Details for AthenaHacks
 
 Official site: https://athenahacks.com/
